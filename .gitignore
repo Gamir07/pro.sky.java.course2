@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/pro.sky.java.course2.iml
+/.idea/
